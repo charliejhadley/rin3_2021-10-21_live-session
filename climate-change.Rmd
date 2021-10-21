@@ -1,0 +1,12 @@
+---
+title: "Climate Change"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# We are in crisis
+
+Change things.
